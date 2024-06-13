@@ -1,10 +1,10 @@
 
 # Excel Project | Youtube Views Forecast Data with Graphs
 
-This project is to analyze the youtube channel viewers database. Here I forcast data for next 7 days with help of the Excel skill, also try to provide  more accurate forecasting using R square value and different graphs, like, Line, Polynomial, exponential graph.
+This project is an advanced Excel Sales Performance analysis that allows management to make informed decisions based on real-time data. It includes data collection, analysis, visualization using pivot charts.
 
 ## Acknowledgements
-Thanks to Rishabh Mishra.
+Self Study Project with help of AI.
 
 
 ## 🚀 About Me
@@ -12,23 +12,31 @@ Hi, I'm Gayatri, and  as a data analyst, I'm  passionate about Data Analytics an
 
 
 ## 🛠 Skills
-POSTGRESQL, SQL, EXCELL, PYTHON, DATA ANALYSING, EDA.
+EXCEL, PIVOT CHARTS, DATA VISUALISATION.
 
 
-# Graphs
+## Pivot Charts and Insites
 
-## Line Graph
-Here R² = 0.0.686, this value is more that 0.5 but do not have much confidance about forecast with this line graph.
-![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_LineGraph.PNG)
+DATA
+![App Screenshot](https://github.com/GayatriBhinge/Sales_Performance_Analysis/blob/main/1.PNG)
 
-## Exponentail Graph
-Here R² = 0.563, not much confidnace about forecast with this Expontail graph
-![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_exponential.PNG)
 
-## Polynomial Graph
-Here R² = 0.782, this value is near to 1 so having 85% confidance about forecast with this polynomial graph.
-![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_PolynomialGraph.PNG)
+Chart 1
+![App Screenshot](https://github.com/GayatriBhinge/Sales_Performance_Analysis/blob/main/2.PNG)
 
+
+Chart 2
+![App Screenshot](https://github.com/GayatriBhinge/Sales_Performance_Analysis/blob/main/3.PNG)
+
+
+Chart 3
+![App Screenshot](https://github.com/GayatriBhinge/Sales_Performance_Analysis/blob/main/4.PNG)
+
+
+Chart 4
+![App Screenshot](https://github.com/GayatriBhinge/Sales_Performance_Analysis/blob/main/5.PNG)
+
+##Thank you!!
 
 # R² Values are important in Forecasting Data
 What is R² ?
